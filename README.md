@@ -37,8 +37,8 @@ A web application built with Next.js that displays currently free and upcoming f
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/epic-freebies.git
-    cd epic-freebies
+    git clone https://github.com/W41T3D3V1L/Epic-Games-Freebies-Store.git
+    cd Epic-Games-Freebies-Store
     ```
 
 2.  **Install dependencies:**
